@@ -11,36 +11,36 @@ function App() {
 
   const pages = [
     {
-      title: "Chapter 1: Behind the Lens 📹",
+      title: "Miiikaaaa",
       subtitle: "The moment everything started...",
-      content: "From the very first time I saw you behind that camera, my world changed. The way you hold it with such passion, the way your eyes sparkle when you're creating magic through your lens - you became my favorite scene to watch.\n\nEvery 'Action!' you call sends butterflies dancing in my heart. You're not just filming stories, you're living them, breathing life into every frame.",
+      content: "I just wanted you to know that I like u and even though life has been hard for u these past months, I want to be there for u. I want to be the one who makes u smile, who supports u, who stands by u through thick and thin.\n\nFrom the moment I saw u, I knew there was something special about u. Your passion for filmmaking, your creativity, your kindness - it all drew me in. I admire u so much, and I can't help but feel a deep connection to u.\n\nI know we haven't known each other for long, but I can't ignore these feelings anymore. So here I am, pouring my heart out to u in this little album. I hope it brings a smile to ur face and lets u know how much u mean to me.",
       hasPhoto: true,
       photoText: "My beautiful filmmaker 💕",
       bgGradient: "from-pink-100 to-rose-200",
       image: photo1
     },
     {
-      title: "Chapter 2: The Perfect Frame 🎬",
-      subtitle: "When I realized you captured more than just films...",
-      content: "In all your short films, you capture raw emotions, perfect lighting, stories that make hearts skip beats. But what you don't know is that you've captured something even more precious - my entire heart.\n\nWatching you work is like watching poetry in motion. You understand the language of emotions, and mine are screaming your name in every heartbeat.",
+      title: "ROAR",
+      subtitle: "I'm sooo proud of you...",
+      content: "I want you to know how that I am so so proud of you, Mika. You've been through so much, and yet you still manage to shine so brightly.",
       hasPhoto: true,
       photoText: "You in your element 🌟",
       bgGradient: "from-pink-100 to-rose-200",
       image: "/mik.jpeg"
     },
     {
-      title: "Chapter 3: My Truth 💝",
+      title: "My Truth 💝",
       subtitle: "No filters, no edits, just pure feelings...",
-      content: "Like a director calling 'Action!', I want to tell you my truth - my feelings for you are real, unscripted, straight from the soul. No retakes needed because this is my reality.\n\nYou've taught me that life is about creating beautiful moments. Now I want to create those moments with you, frame by frame, heartbeat by heartbeat.",
+      content: "I'll be honest na I'm so inlove with u, even though the time we spent togetehr is so short but I feel like I've known u forever. ",
       hasPhoto: true,
       photoText: "Your smile that melts me 🌸",
       bgGradient: "from-pink-100 to-rose-200",
       image: "/mik.jpeg"
     },
     {
-      title: "Chapter 4: Our Love Story 💕",
+      title: "Our Love Story 💕",
       subtitle: "The beginning of something beautiful...",
-      content: "Every great film needs perfect chemistry between the leads. I believe we have that magic, that spark that could light up every scene of our lives.\n\nI want to be your co-star in this beautiful story called life. Together, we could create the most amazing love story - filled with laughter, adventures, late-night editing sessions, and endless romance.",
+      content: "I hope this you'll still open your heart to me, and give us a chance to create our own love story, filled with laughter, adventure, and endless love.",
       hasPhoto: true,
       photoText: "Our future together 💐",
       bgGradient: "from-pink-100 to-rose-200",
